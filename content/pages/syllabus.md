@@ -1,12 +1,12 @@
 ---
 content_type: page
-description: s
-draft: false
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c7afa8dc-a12c-73da-bfe2-91544d57c38b
 ---
+
 Course Meeting Times
 --------------------
 
